@@ -1,8 +1,8 @@
 ---
 name: Suggestion - Aetheric Journeys
-about: Suggest an idea for this project
+about: " Submit a suggestion related to Aetheric Journeys."
 title: ''
-labels: Aetheric Journeys, Suggestion
+labels: Suggestion
 assignees: MagmaBro123
 
 ---

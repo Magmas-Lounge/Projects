@@ -1,8 +1,8 @@
 ---
 name: Suggestion - BetweenCraft
-about: Suggest an idea for this project
+about: " Submit a suggestion related to BetweenCraft."
 title: ''
-labels: BetweenCraft, Suggestion
+labels: Suggestion
 assignees: MagmaBro123
 
 ---

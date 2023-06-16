@@ -2,7 +2,7 @@
 name: Bug Report - BetweenCraft
 about: Submit a bug report related to BetweenCraft.
 title: ''
-labels: BetweenCraft, Bug Report
+labels: Bug Report
 assignees: MagmaBro123
 
 ---

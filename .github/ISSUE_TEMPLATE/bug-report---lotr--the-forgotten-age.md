@@ -2,7 +2,7 @@
 name: 'Bug Report - LOTR: The Forgotten Age'
 about: 'Submit a bug report related to LOTR: The Forgotten Age.'
 title: ''
-labels: 'Bug Report, LOTR: The Forgotten Age'
+labels: Bug Report
 assignees: MagmaBro123
 
 ---

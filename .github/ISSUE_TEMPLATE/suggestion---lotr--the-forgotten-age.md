@@ -1,8 +1,8 @@
 ---
 name: 'Suggestion - LOTR: The Forgotten Age'
-about: Suggest an idea for this project
+about: " Submit a suggestion related to LOTR: The Forgotten Age."
 title: ''
-labels: 'LOTR: The Forgotten Age, Suggestion'
+labels: Suggestion
 assignees: MagmaBro123
 
 ---
