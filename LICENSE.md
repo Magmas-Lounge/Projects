@@ -4,4 +4,4 @@
 - Issues caused by dead/unsupported mods are **NOT** my problem. If you want support, then go find and complain to the dev(s) of said mod(s) about their issue(s), not me. Otherwise, these issues will be locked, closed, and ignored without warning
 
 For any questions, see my Discord's #faq channel.
-To see the known bugs my projects currently have, see https://github.com/The-Magma-Grounds/Projects/discussions/4.
+To see the known bugs my projects currently have, see https://github.com/Magmas-Lounge/Projects/issues/1.
