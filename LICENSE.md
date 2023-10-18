@@ -1,7 +1,7 @@
-# Copyright 2022 Magma's Lounge. All Rights Reserved.
+# Copyright 2022 Magma's Lounge. "Half All Rights Reserverved, Half MIT."
 
-- By playing and installing my modpacks, you agree to **not** modify them in any way. No support will be provided to users who do so. If you're a Contributor, then this doesn't apply to you.
-- Issues caused by dead/unsupported mods are **NOT** my problem. If you want support, then go find and complain to the dev(s) of said mod(s) about their issue(s), not me. Otherwise, these issues will be locked, closed, and ignored without warning.
+- To all normal users, you agree to **not** modify my projects in any way. No support will be provided.
+- To anyone who contributes and gets my permission, treat this as an MIT licensed project, do whatever you want.
 
 For any questions, see https://github.com/Magmas-Lounge/Projects/issues/2.
 To see the known bugs my projects currently have, see https://github.com/Magmas-Lounge/Projects/issues/1.
