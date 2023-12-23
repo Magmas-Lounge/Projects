@@ -5,5 +5,3 @@
 
 For any questions, see https://github.com/Magmas-Lounge/Projects/issues/2.
 To see the known bugs my projects currently have, see https://github.com/Magmas-Lounge/Projects/issues/1.
-
-My projects are provided as-is, and I cannot garentee that they'll function correctly. Blame the developers of the respective dead mods, not me.
