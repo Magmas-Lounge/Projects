@@ -1,4 +1,4 @@
-# Copyright 2022 Magma's Lounge, "Half All Rights Reserved, Half MIT."
+# Copyright 2022 Magma's Lounge.
 
 - To all normal users, you agree to **not** modify my projects in any way. No support will be provided.
 - To anyone who contributes and gets my permission, treat this as an MIT licensed project, do whatever you want.
