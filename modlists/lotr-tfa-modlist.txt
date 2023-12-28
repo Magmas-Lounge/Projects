@@ -13,14 +13,14 @@ BetterHorseHud-1.7.10-1.0.jar
 BetterQuesting-3.4.2-GTNH.jar
 BiblioCraft[v1.11.7][MC1.7.10].jar
 BowOverhaul-1.7.10-0.0.0.jar
-bugtorch-1.2.10.jar
+bugtorch-1.2.11.jar
 campfirebackport-1.7.10-1.10.1.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
 chunkapi-mc1.7.10-0.4.0-hotfix1.jar
 clearchat-1.1.jar
 CodeChickenCore-1.1.13.jar
 CopperTools-1.7.10-1.4.jar
-CoreTweaks-1.7.10-0.3.3.1+nomixin.jar
+CoreTweaks-1.7.10-0.3.3.2+nomixin.jar
 CraftTweaker-1.7.10-3.1.0-legacy.jar
 crowns-1.7.10-1.6.jar
 CustomNPC-Plus-1.8.6.jar
@@ -35,7 +35,7 @@ DynamicSurroundings-1.7.10-1.0.7.2.jar
 easybreading-1.7.10-2.0.3.jar
 EC-Unofficial-1.0.1.jar
 endercore-0.2.18.jar
-Et_Futurum_Requiem-2.6.0-SNAPSHOT-4f03db1+nomixin.jar
+Et_Futurum_Requiem-2.6.0-SNAPSHOT-634ffcf+nomixin.jar
 Exotic Birds 1.7.10-1.4.6.jar
 falsepatternlib-mc1.7.10-1.0.0.jar
 falsetweaks-mc1.7.10-2.7.3.jar
