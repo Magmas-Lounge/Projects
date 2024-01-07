@@ -3,4 +3,4 @@
 - To all normal users, you agree to **not** modify my projects in any way. No support will be provided.
 - To anyone who contributes and gets my permission, treat this as an MIT licensed project, do whatever you want.
 
-For any questions and the list of known issues, see https://github.com/Magmas-Lounge/Projects/issues/1 and https://github.com/Magmas-Lounge/Projects/issues/2.
+For questions and known issues, see https://github.com/Magmas-Lounge/Projects/issues/1 and https://github.com/Magmas-Lounge/Projects/issues/2.
