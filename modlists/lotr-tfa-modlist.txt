@@ -1,8 +1,10 @@
-+unimixins-all-1.7.10-0.1.14.jar
++unimixins-all-1.7.10-0.1.15.jar
 AIImprovements-1.7.10-0.0.1b8.jar
+Animals-Plus-Mod-1.7.2-1.7.10.jar
 AppleCore-3.2.12.jar
 Aquaculture-1.7.10-1.2.6.21.jar
 archaicfix-0.6.2.jar
+ArchimedesShips-1.7.1.jar
 astikoor-1.7.10-1.0.0.jar
 BadMobs-1.0.1-1.7.10.jar
 Better HUD by NukeDuck [1.7.10][1.3.5].jar
@@ -16,9 +18,9 @@ BowOverhaul-1.7.10-0.0.0.jar
 bugtorch-1.2.11.jar
 campfirebackport-1.7.10-1.10.1.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
-chunkapi-mc1.7.10-0.4.0-hotfix1.jar
+chunkapi-mc1.7.10-0.5.0.jar
 clearchat-1.1.jar
-CodeChickenCore-1.1.13.jar
+CodeChickenCore-1.2.1.jar
 CopperTools-1.7.10-1.4.jar
 CoreTweaks-1.7.10-0.3.3.2+nomixin.jar
 CraftTweaker-1.7.10-3.1.0-legacy.jar
@@ -29,16 +31,16 @@ defaultworldgenerator-1.7.10-0.2.jar
 difficultlife-1.3.1710.0.jar
 discord-game-sdk4j-0.5.5.jar
 DMod-1.7.10-1.0.3.5.jar
-Dwarven Realm v23.07.24.jar
+Dwarven Realm v23.12.29.jar
 Dynamic Lights-1.3.9a-MC1.7.10.jar
-DynamicSurroundings-1.7.10-1.0.7.2.jar
+DynamicSurroundings-1.7.10-1.0.7.5.jar
 easybreading-1.7.10-2.0.3.jar
 EC-Unofficial-1.0.1.jar
 endercore-0.2.18.jar
-Et_Futurum_Requiem-2.6.0-SNAPSHOT-634ffcf+nomixin.jar
+Et_Futurum_Requiem-2.6.0-SNAPSHOT-964e0e8+nomixin.jar
 Exotic Birds 1.7.10-1.4.6.jar
-falsepatternlib-mc1.7.10-1.0.0.jar
-falsetweaks-mc1.7.10-2.7.3.jar
+falsepatternlib-mc1.7.10-1.0.1.jar
+falsetweaks-mc1.7.10-2.8.1.jar
 FastLeafDecay-1.7.10-1.4.jar
 fedropfix-1.0.0.jar
 FMProjectE-2.1.0.jar
@@ -51,10 +53,10 @@ glass_shards_mc1.7.10-1.5.2.jar
 GlibysVC-1.7.10-0.6.2a.jar
 grapplemod-1.7.10-v10.jar
 GraveStone Mod 0.7.10.3.jar
-gtnhlib-0.0.13.jar
+gtnhlib-0.2.2.jar
 HardcoreDarkness-MC1.7.10-1.7.jar
 HelpFixer-1.7.10-1.1.0.jar
-hodgepodge-2.3.39.jar
+hodgepodge-2.4.24.jar
 hopperductmod-1.7.10-1.3.2.jar
 ice_shards_mc1.7.10-1.3.jar
 inventorytweaks-1.5.17-pre.jar
@@ -68,7 +70,7 @@ LOTR Improvements-1.0.9.jar
 LOTR+Extended+v23.10.29.jar
 LOTRDRPv2-1.1.0.jar
 LOTRMod v36.15.jar
-lumina-mc1.7.10-1.0.0-rc4.jar
+lumina-mc1.7.10-1.0.0-rc5.jar
 matmos-1.7.10-36.jar
 mcinstanceloader-2.7.jar
 MineTweakerRecipeMaker-1.7.10-1.1.1.jar
@@ -77,16 +79,17 @@ mistlotrtweaks-1.4.1.0.jar
 modernsplash-1.7.10-2c17c9a.jar
 modlist.txt
 mooz-mc1.7.10-0.1.0.jar
-MorePlayerModels-Plus-2.1.jar
+MorePlayerModels-Plus-3.0.jar
 MouseTweaks-2.4.10-GTNH-pre.jar
 mpmLotr-1.0.0.jar
 MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+Mumakil-Addon-24.02.29.jar
 neiLotr-1.0.0-BETA.jar
 neiRecipeHandlers-1.1.0-BETA.jar
-neodymium-1.7.10-0.1.9+nomixin.jar
+neodymium-1.7.10-0.2.2+nomixin.jar
 NMA-1.7.10-1.1.jar
 NomadicTents[1.7.10]-1.12.1.jar
-NotEnoughItems-2.4.13-GTNH.jar
+NotEnoughItems-2.5.17-GTNH.jar
 NotEnoughPets-1.7.10-2.3.6.jar
 nutrition-0.0.5.jar
 Pam's Clay Spawn 1.7.10b.jar
@@ -95,13 +98,14 @@ Punch Me Not 1.2.jar
 RealisticTorches-1.7.10-1.6.3.jar
 ResourceLoader-MC1.7.10-1.3.jar
 rpgstamina-1.1b.jar
+Sauron-Addon-24.02.29.jar
 sdnf-1.0.jar
 serializationisbad-1.5.jar
 ShoulderSurfing-1.7.10-2.4.1.jar
 SleepingBag-1.7.10-0.1.1.jar
 Snowfall-1.7.10-2.2.2.jar
 SoundFilters-0.8_for_1.7.X.jar
-SpiceOfLife-2.1.1-carrot.jar
+SpiceOfLife-2.1.7-carrot.jar
 StacksOnStacks-1.7.10-2.4.3.jar
 StorageDrawers-1.12.1-GTNH.jar
 tumbleweed-1.7.10-0.2.jar
@@ -116,4 +120,4 @@ World-Stripper-1.0.0-1.7.10.jar
 worldedit-forge-mc1.7.10-6.1.1-dist.jar
 worldprimer-1.7.10-0.5.0.jar
 Zoocraft Discoveries 1.7.10-1.1.0.jar
-[1.7.10]+The+Rings+of+Power+v23.10.29.jar
+[1.7.10] The Rings of Power v24.01.28.jar
