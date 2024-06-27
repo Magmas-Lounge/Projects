@@ -1,4 +1,4 @@
-# Copyright 2023 Magma's Lounge.
+# Copyright 2024 Magma's Lounge.
 
 - To all normal users, you agree to **not** modify my projects in any way. No support will be provided to said users.
 - To anyone who gets my permission and is willing to contribute, treat this as an MIT licensed project, do whatever you want. (But please do not re-post my work.)
