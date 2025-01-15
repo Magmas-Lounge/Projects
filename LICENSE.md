@@ -1,4 +1,4 @@
-# Copyright 2024 Magma's Lounge.
+# Copyright 2025 Magma's Lounge.
 
 - Please do **not** modify my projects unless you're contributing in some way. No support will be provided to those who do so.
 
