@@ -2,7 +2,7 @@
 name: Bug Report - Aetheric Journeys
 about: Submit a bug report related to Aetheric Journeys.
 title: ''
-labels: Bug Report
+labels: Bug Report, Suggestion
 assignees: MagmaBro123
 
 ---

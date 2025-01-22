@@ -22,9 +22,9 @@ Add any other context or screenshots about the feature request here.
 **Checklist**
 Please read and agree to the following by adding an X into each [].
 
-[] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.
+[] - I agree that I will not get support if I'm using OptiFine.
 [] - I have tried asking the mod developer(s) first.
 [] - I have read the Known Issues list (https://github.com/Magmas-Lounge/Projects/issues/1) and FAQ (https://github.com/Magmas-Lounge/Projects/issues/2).
-[] - I agree that the mod I am suggesting has been tested within my downloaded copy of this modpack and found that there are minimal to no issues.
+[] - I agree that the mod I am suggesting has been tested within my downloaded copy of this modpack and found that there are minimal to no issues with the other included mods.
 
 By submitting a suggestion, you agree with everything you've checked off. If you're some troll who opened this to get attention for no reason, then this issue will be deleted without warning and will result in you being blocked from this repository.
