@@ -33,4 +33,4 @@ Please read and agree to the following by adding an X into each [].
 [] - I have tried asking the mod developer(s) first.
 [] - I have read the Known Issues list (https://github.com/Magmas-Lounge/Projects/issues/1) and FAQ (https://github.com/Magmas-Lounge/Projects/issues/2).
 
-By opening this issue, you agree with everything you checked off. If you're some troll who opened this to get attention for no reason, then this issue will be deleted without warning and will result in you being blocked from this repository.
+By opening this issue, you agree with everything you've checked off. If you're some troll who opened this to get attention for no reason, then this issue will be deleted without warning and will result in you being blocked from this repository.
