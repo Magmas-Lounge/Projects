@@ -30,7 +30,7 @@ Add any other context about the problem here.
 Please read and agree to the following by adding an X into each [].
 
 [] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.
-[] - I have tried asking the mod developer(s) about my issue first.
+[] - I have tried asking the mod developer(s) about my issue first. (And if they have, please avoid opening this issue.)
 [] - I have read the Known Issues List and FAQ.
 
 By opening this issue, you agree with everything you've checked off. If you're a troll who opened this to get attention for no reason, then this issue will be deleted and you will be blocked from this repository without warning.
