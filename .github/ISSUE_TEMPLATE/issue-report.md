@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Issue Report
 about: Submit a bug report related to one of my modpacks.
 title: ''
 labels: Bug Report
