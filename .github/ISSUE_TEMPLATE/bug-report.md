@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Submit a report related to one of my modpacks.
+about: Submit a bug report related to one of my modpacks.
 title: ''
 labels: Bug Report
 assignees: MagmaBro123
