@@ -14,7 +14,7 @@ Select the modpack you're reporting about by adding an X into one of the 3 []. O
 [] - BetweenCraft
 [] - LOTR: The Forgotten Age
 
-**Pre-Bug Report Checklist**
+**Pre-Suggestion Checklist**
 Please read and agree to the following by adding an X into each [].
 
 [] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.
