@@ -1,0 +1,64 @@
+name: "Bug Report"
+fields:
+- type: "checkboxes"
+  attributes:
+    label: "**Select Modpack**"
+    description: "Select the modpack you're reporting about. Only select **1** per report, multiple will result in this issue being invalid."
+    options:
+    - label: "LOTR: The Forgotten Age"
+      required: false
+    - label: "BetweenCraft"
+      required: false
+    - label: "Aetheric Journeys"
+      required: false
+  validations:
+    required: false
+- type: "checkboxes"
+  attributes:
+    label: "**Pre-Bug Report Checklist**"
+    description: "Please read and agree to the following:"
+    options:
+    - label: "I agree that I will not get support if I modified the modpack or if I'm using OptiFine."
+      required: true
+    - label: "I'm using the latest version of this modpack."
+      required: true
+    - label: "I have tried asking the mod developer(s) about my issue first."
+      required: true
+    - label: "I have read the Known Issues list and FAQ."
+      required: true
+  validations:
+    required: false
+- type: "textarea"
+  attributes:
+    label: "**Describe the bug**"
+    description: "A clear and concise description of what the bug is."
+  validations:
+    required: true
+- type: "textarea"
+  attributes:
+    label: "**To Reproduce**"
+    description: "Steps to reproduce the behavior (replace the text below):"
+    value: "1. Go to '...'\n2. Click on '....'\n3. Scroll down to '....'\n4. See error"
+  validations:
+    required: true
+- type: "textarea"
+  attributes:
+    label: "**Expected Behavior**"
+    description: "A clear and concise description of what you expected to happen."
+  validations:
+    required: true
+- type: "textarea"
+  attributes:
+    label: "**Screenshots**"
+    description: "If applicable, add screenshots below to help explain your problem."
+  validations:
+    required: true
+- type: "textarea"
+  attributes:
+    label: "**Additional Context**"
+    description: "Add any other context about the problem here."
+  validations:
+    required: true
+- type: "markdown"
+  attributes:
+    value: "**By opening this issue, you agree with everything you've checked off and you've filled everything correctly. If you're a troll who opened this just to get attention for no reason, then this issue will be deleted and you will be blocked from this repository without warning.**"
