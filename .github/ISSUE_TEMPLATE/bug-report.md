@@ -1,6 +1,6 @@
 ---
-name: Issue Report
-about: Create a report to help us improve
+name: Bug Report
+about: Submit a bug report related to one of my modpacks.
 title: ''
 labels: Bug Report
 assignees: MagmaBro123
