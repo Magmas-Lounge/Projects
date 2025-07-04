@@ -1,4 +1,5 @@
 name: "Bug Report"
+fields:
 - type: "checkboxes"
   attributes:
     label: "**Select Modpack**"
