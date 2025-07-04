@@ -1,6 +1,5 @@
 name: "Bug Report"
-fields:
-- type: "checkboxes"
+type: "checkboxes"
   attributes:
     label: "**Select Modpack**"
     description: "Select the modpack you're reporting about. Only select **1** per report, multiple will result in this issue being invalid."
