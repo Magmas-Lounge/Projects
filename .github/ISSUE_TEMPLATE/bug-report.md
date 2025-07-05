@@ -18,8 +18,8 @@ Select the modpack you're reporting about. Only select **1** per report, multipl
 Please read and agree to the following by adding an X into each []:
 
 [] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.
-[] - I'm using the latest version of this modpack.
 [] - I have tried asking the mod developer(s) about my issue first.
+[] - I'm using the latest version of this modpack.
 [] - I have read the Known Issues list and FAQ.
 
 -
