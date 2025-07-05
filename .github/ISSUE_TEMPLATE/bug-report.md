@@ -22,7 +22,7 @@ Please read and agree to the following by adding an X into each []:
 [] - I'm using the latest version of this modpack.
 [] - I have read the Known Issues list and FAQ.
 
--
+---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -44,6 +44,6 @@ If applicable, add screenshots to help explain your problem.
 **Additional Context**
 Add any other context about the problem here.
 
--
+---
 
 **By opening this issue, you agree with everything you've checked off and you've filled everything correctly. If you're a troll who opened this just to get attention for no reason, then this issue will be deleted and you will be blocked from this repository without warning.**
