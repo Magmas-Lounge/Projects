@@ -3,7 +3,7 @@ name: Bug Report
 about: Submit a bug report related to one of my modpacks.
 title: ''
 labels: Bug Report
-assignees: MagmaBro123
+assignees: ''
 
 ---
 
@@ -14,7 +14,7 @@ Select the modpack you're reporting about. Only select **1** per report, multipl
 [] - BetweenCraft
 [] - LOTR: The Forgotten Age
 
-**Pre-Bug Report Checklist**
+**Pre-Report Checklist**
 Please read and agree to the following by adding an X into each []:
 
 [] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.

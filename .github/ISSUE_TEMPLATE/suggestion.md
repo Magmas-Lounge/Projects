@@ -3,7 +3,7 @@ name: Suggestion
 about: " Submit a suggestion related to one of my modpacks."
 title: ''
 labels: Suggestion
-assignees: MagmaBro123
+assignees: ''
 
 ---
 
