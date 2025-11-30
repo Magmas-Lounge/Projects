@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Select Modpack**
-Select the modpack you're submitting a suggestion for by adding an X into one of the 3 []. Only select **1** per report, multiple will result in the issue being invalid.
+Select the modpack you're submitting a suggestion for by adding an X into one of the 3 []. Only select **1** per suggestion, multiple will result in this being invalid.
 
 [] - Aetheric Journeys
 [] - BetweenCraft
@@ -17,7 +17,7 @@ Select the modpack you're submitting a suggestion for by adding an X into one of
 **Pre-Suggestion Checklist**
 Please read and agree to the following by adding an X into each [].
 
-[] - I agree that I will not get support if I modified the modpack or if I'm using OptiFine.
+[] - I agree that my suggestion isn't valid if I modified the modpack or if I'm using OptiFine.
 [] - I have tried suggesting this feature to the mod developer(s) first.
 [] - I'm using the latest version of this modpack.
 [] - I have read the Known Issues list and FAQ.
