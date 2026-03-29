@@ -1,7 +1,6 @@
 ---
 name: Contribution Submission
-about: DO NOT OPEN UNLESS YOU'RE WILLING TO CONTRIBUTE AND NOT ASK FOR MONEY WHEN
-  DOING SO.
+about: Do not open unless you're contributing in some way.
 title: ''
 labels: Contribution Submission
 assignees: MagmaSlime123
