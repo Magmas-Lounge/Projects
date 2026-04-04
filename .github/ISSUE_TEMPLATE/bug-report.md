@@ -8,13 +8,13 @@ assignees: MagmaSlime123
 ---
 
 **Select Modpack**
-Select the modpack you're submitting a suggestion for by adding an X into one of the 3 []. Only select **1** per suggestion, multiple will result in this being invalid.
+Select the modpack you're submitting an issue for by adding an X into one of the 3 []. Only select **1** per suggestion, multiple will result in this being invalid.
 
 [] - Aetheric Journeys
 [] - BetweenCraft
 [] - LOTR: The Forgotten Age
 
-**Pre-ReportChecklist**
+**Pre-Report Checklist**
 Please read and agree to the following by adding an X into each [].
 
 [] - I agree that my report isn't valid if I modified the modpack or if I'm using OptiFine.
