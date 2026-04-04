@@ -1,6 +1,7 @@
 ---
 name: Contribution Submission
-about: Do not open unless you're contributing in some way.
+about: Do not open unless you're contributing in some way. See the License tab for
+  more info.
 title: ''
 labels: Contribution Submission
 assignees: MagmaSlime123
