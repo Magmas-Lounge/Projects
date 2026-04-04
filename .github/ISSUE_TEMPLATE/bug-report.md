@@ -8,7 +8,7 @@ assignees: MagmaSlime123
 ---
 
 **Select Modpack**
-Select the modpack you're submitting an issue for by adding an X into one of the 3 []. Only select **1** per suggestion, multiple will result in this being invalid.
+Select the modpack you're submitting an issue for by adding an X into one of the 3 []. Only select **1** per report, multiple will result in this being invalid.
 
 [] - Aetheric Journeys
 [] - BetweenCraft
