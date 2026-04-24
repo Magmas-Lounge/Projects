@@ -8,6 +8,13 @@ assignees: MagmaSlime123
 
 ---
 
+**Pre-Submission Checklist**
+Please read and agree to the following by adding an X into each [].
+
+[] - I agree that my submission will be closed and ignored, and that I will be blocked from this repo if I ask for money.
+[] - I'm using the latest version of this modpack.
+[] - I have read the Known Issues list and FAQ.
+
 **What modpack(s) are you willing to help with?**
 Please describe.
 
