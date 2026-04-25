@@ -12,7 +12,7 @@ assignees: MagmaSlime123
 Please read and agree to the following by adding an X into each [].
 
 [] - If I ask for money when submitting, I wll be blocked from this repo and ignored.
-[] - I'm using the latest version of this modpack.
+[] - I've tested my changes in the modpack(s) I'm contributing to.
 [] - I have read the Known Issues list and FAQ.
 
 **What modpack(s) are you willing to help with?**
@@ -22,4 +22,7 @@ Please describe.
 Please describe.
 
 **Have you done any modding before? If so, please link a project you've made/contributed to in the past.**
-Post link(s) and info here.
+Post links and info here.
+
+**Anything else?**
+Say here.
