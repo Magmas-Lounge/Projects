@@ -19,7 +19,7 @@ Please read and agree to the following by adding an X into each [].
 **What modpack(s) are you willing to help with?**
 Please describe.
 
-**What issue(s) are you willing to help fix?**
+**What mod(s) are you forking/making an alternative to, and what issue(s) do they fix?**
 Please describe.
 
 **Have you done any modding before? If so, please link a project you've made/contributed to in the past.**
