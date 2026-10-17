@@ -3,7 +3,7 @@ name: Contribution Submission
 about: Do not open unless you're contributing in some way. See the License tab for
   more info.
 title: ''
-labels: Contribution Submission
+labels: Contribution Submission, Suggestion
 assignees: MagmaSlime123
 
 ---
@@ -13,6 +13,7 @@ Please read and agree to the following by adding an X into each [].
 
 [] - If I ask for money when submitting, I wll be blocked from this repo and ignored.
 [] - I've tested my changes in the modpack(s) I'm contributing to.
+[] - I will keep the mod that I've forked/made an alternative to updated, supported, and on GitHub (or similar site) with an open license (MIT, LGPL, etc.) so others can continue it if need be.
 [] - I have read the Known Issues list and FAQ.
 
 **What modpack(s) are you willing to help with?**
