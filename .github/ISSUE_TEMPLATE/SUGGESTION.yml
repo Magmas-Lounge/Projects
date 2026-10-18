@@ -1,0 +1,65 @@
+name: "Suggestion"
+description: "Submit a suggestion related to one of my modpacks."
+labels: ["Suggestion"]
+assignees: ["MagmaSlime123"]
+body:
+  - type: dropdown
+    id: select_modpack
+    attributes:
+      label: "Select Modpack"
+      description: "Select the modpack you're submitting a suggestion for."
+      options:
+        - "Aetheric Journeys"
+        - "BetweenCraft"
+        - "LOTR: The Forgotten Age (Currently being reworked)"
+        - "Realism & Magic"
+    validations:
+      required: true
+  - type: checkboxes
+    id: pre_suggestion_checklist
+    attributes:
+      label: "Pre-Suggestion Checklist"
+      description: "Please read and agree to the following:"
+      options:
+        - label: "If I use OptiFine or a modified version of this modpack, this suggestion is NOT valid."
+        - label: "I have tried suggesting this feature to the corresponding mod developer(s) first."
+        - label: "I'm using the latest version of this modpack."
+        - label: "I have read the Known Issues list and FAQ."
+    validations:
+      required: true
+  - type: input
+    id: is_your_suggestion_related_to_a_problem_please_describe
+    attributes:
+      label: "Is your suggestion related to a problem? Please describe."
+      description: "A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]"
+      placeholder: "..."
+    validations:
+      required: true
+  - type: input
+    id: describe_the_solution_you_d_like
+    attributes:
+      label: "Describe the solution you'd like"
+      description: "A clear and concise description of what you want to happen."
+      placeholder: "..."
+    validations:
+      required: true
+  - type: input
+    id: describe_alternatives_you_ve_considered
+    attributes:
+      label: "Describe alternatives you've considered"
+      description: "A clear and concise description of any alternative solutions or features you've considered."
+      placeholder: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional Context"
+      description: "Anything else to add, such as screenshots or other context?"
+      placeholder: "..."
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        By opening this suggestion, you agree with everything that you've checked off and filled everything with the required info. If you're a troll who opened this just to get attention for no reason, then this suggestion will be deleted and you will be blocked from this repository without warning.
