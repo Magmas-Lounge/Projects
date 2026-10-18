@@ -12,7 +12,7 @@ body:
         - "Aetheric Journeys"
         - "BetweenCraft"
         - "LOTR: The Forgotten Age (Currently being reworked)"
-        - "Realism & Magic"
+        - "Realism & Magic (Under Construction)"
     validations:
       required: true
   - type: checkboxes
