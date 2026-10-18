@@ -24,7 +24,7 @@ body:
         - label: "Aetheric Journeys"
         - label: "BetweenCraft"
         - label: "LOTR: The Forgotten Age (Currently being reworked)"
-        - label: "Realism & Magic"
+        - label: "Realism & Magic (Under Construction)"
     validations:
       required: true
   - type: input
