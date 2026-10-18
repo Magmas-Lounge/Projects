@@ -62,4 +62,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        By opening this suggestion, you agree with everything that you've checked off and filled everything with the required info. If you're a troll who opened this just to get attention for no reason, then this suggestion will be deleted and you will be blocked from this repository without warning.
+        **By opening this suggestion, you agree with everything that you've checked off and filled everything with the required info. If you're a troll who opened this just to get attention for no reason, then this suggestion will be deleted and you will be blocked from this repository without warning.**
