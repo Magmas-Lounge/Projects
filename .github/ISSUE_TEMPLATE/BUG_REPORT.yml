@@ -21,7 +21,7 @@ body:
       label: "Pre-Report Checklist"
       description: "Please read and agree to the following:"
       options:
-        - label: "If I use OptiFine or a modified version of this modpack, ithis issue is NOT valid."
+        - label: "If I use OptiFine or a modified version of this modpack, this issue is NOT valid."
         - label: "I have tried reporting this bug to the mod developer(s) first."
         - label: "I'm using the latest version of this modpack."
         - label: "I have read the Known Issues list and FAQ."
