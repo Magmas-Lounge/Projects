@@ -1,0 +1,53 @@
+name: "Contribution Submission"
+description: "Do NOT open unless you're contributing in some way. See the License tab for more info."
+labels: ["Contribution Submission"]
+assignees: ["MagmaSlime123"]
+body:
+  - type: checkboxes
+    id: pre_submission_checklist
+    attributes:
+      label: "Pre-Submission Checklist"
+      description: "Please read and agree to the following:"
+      options:
+        - label: "If I ask for money when submitting, I wll be blocked and ignored."
+        - label: "I've tested my changes in the modpack(s) I'm contributing to."
+        - label: "If I created a fork/alternative to a mod in the modpack(s) I'm contributing to, I will post it onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
+        - label: "I have read the Known Issues list and FAQ."
+    validations:
+      required: true
+  - type: checkboxes
+    id: what_modpack_s_are_you_willing_to_help_with
+    attributes:
+      label: "What modpack(s) are you willing to help with?"
+      description: "Select below."
+      options:
+        - label: "Aetheric Journeys"
+        - label: "BetweenCraft"
+        - label: "LOTR: The Forgotten Age (Currently being reworked)"
+        - label: "Realism & Magic"
+    validations:
+      required: true
+  - type: input
+    id: what_mod_s_are_you_forking_making_an_alternative_to_and_what_issue_s_do_they_fix
+    attributes:
+      label: "What mod(s) are you forking/making an alternative to, and what issue(s) do they fix?"
+      description: "Please describe."
+      placeholder: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: have_you_done_any_modding_before_if_so_please_link_a_project_you_ve_made_contributed_to_in_the_past
+    attributes:
+      label: "Have you done any modding before? If so, please link a project you've made/contributed to in the past."
+      description: "Post links and info here."
+      placeholder: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: anything_else
+    attributes:
+      label: "Anything else?"
+      description: "Say here."
+      placeholder: "..."
+    validations:
+      required: false
