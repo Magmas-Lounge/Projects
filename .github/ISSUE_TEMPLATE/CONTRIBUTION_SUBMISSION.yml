@@ -9,7 +9,7 @@ body:
       label: "Pre-Submission Checklist"
       description: "Please read and agree to the following:"
       options:
-        - label: "If I ask for money when submitting, I wll be blocked and ignored."
+        - label: "If I ask for money when submitting, this submission will be deleted without warning. If you want money, contribute and help me and I will add you to the Current Contributors list along with donation links (if any) for others to support you with instead."
         - label: "I've tested my changes in the modpack(s) I'm contributing to."
         - label: "If I created a fork/alternative to a mod in the modpack(s) I'm contributing to, I will post it onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
         - label: "I have read the Known Issues list and FAQ."
