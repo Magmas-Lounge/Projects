@@ -30,7 +30,7 @@ body:
   - type: input
     id: what_mod_s_are_you_forking_making_an_alternative_to_and_what_issue_s_do_they_fix
     attributes:
-      label: "What issue(s) does the mod within the select modpack fix?"
+      label: "What issue(s) does your mod fix within the selected modpack(s)?"
       description: "Please describe."
       placeholder: "..."
     validations:
