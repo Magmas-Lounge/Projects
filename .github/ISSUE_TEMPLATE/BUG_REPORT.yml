@@ -1,7 +1,7 @@
 name: "Bug Report"
 description: "Submit an issue related to one of my modpacks."
 labels: ["Bug Report"]
-assignees: ["MagmaCube_123"]
+assignees: ["MagmaSlime123"]
 body:
   - type: dropdown
     id: select_modpack
