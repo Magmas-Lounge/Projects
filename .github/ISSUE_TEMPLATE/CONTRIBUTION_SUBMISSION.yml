@@ -11,7 +11,8 @@ body:
       options:
         - label: "If I ask for money when submitting, this submission will be deleted without warning."
         - label: "I've tested my changes in the modpack(s) I'm contributing to."
-        - label: "If I created a fork/alternative to a mod in the modpack(s) I'm contributing to, I will post it onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
+        - label: "I will post my fork/alternative of a dead mod onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
+        - label: "I have reviewed closed issues with the 'Fixable via Pull Request' or 'Fixable via Fork or Alternative Mod' label."
         - label: "I have read the Known Issues list and FAQ."
     validations:
       required: true
