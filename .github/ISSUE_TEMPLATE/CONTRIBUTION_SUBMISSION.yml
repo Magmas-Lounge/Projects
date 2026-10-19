@@ -49,6 +49,7 @@ body:
     id: link_your_donations
     attributes:
       label: "Please provide links to your Patreon, Kofi, and Paypal if you have any of these. I have no interest in paying you directly, butI will gladly add you to the Current Contributors list along with your donation links for others to support you with instead."
+      description: ""
       placeholder: "..."
     validations:
       required: true
