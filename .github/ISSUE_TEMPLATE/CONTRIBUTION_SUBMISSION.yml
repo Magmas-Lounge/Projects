@@ -19,7 +19,7 @@ body:
     id: what_modpack_s_are_you_willing_to_help_with
     attributes:
       label: "What modpack(s) are you willing to help with?"
-      description: "Select below."
+      description: "Select one or more below."
       options:
         - label: "Aetheric Journeys"
         - label: "BetweenCraft"
