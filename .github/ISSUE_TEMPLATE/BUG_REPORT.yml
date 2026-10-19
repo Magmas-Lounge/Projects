@@ -22,7 +22,7 @@ body:
       description: "Please read and agree to the following:"
       options:
         - label: "If I use OptiFine or a modified version of this modpack, this issue is NOT valid."
-        - label: "I have tried suggesting this feature to the corresponding mod developer(s) first."
+        - label: "I have tried reporting this issue to the corresponding mod developer(s) first."
         - label: "I'm using the latest version of this modpack."
         - label: "I have read the Known Issues list and FAQ."
     validations:
