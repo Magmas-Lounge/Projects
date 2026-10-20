@@ -13,7 +13,7 @@ body:
         - label: "I have reviewed closed issues with a 'Fixable via Pull Request' or 'Fixable via Fork or Alternative Mod' label."
         - label: "I have read the Known Issues list and FAQ."
         - label: "I've tested my changes in the modpack(s) I'm contributing to."
-        - label: "I will post my fork/alternative of a dead mod onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
+        - label: "I will post the fork/alternative that I've made onto Modrinth and GitHub with an open license, and keep it supported and updated if possible."
     validations:
       required: true
   - type: checkboxes
