@@ -36,7 +36,7 @@ body:
       placeholder: "..."
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: what_mods_are_you_forking
     attributes:
       label: "What issue(s) does your mod fix within the selected modpack(s)?"
