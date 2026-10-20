@@ -28,6 +28,14 @@ body:
         - label: "Realism & Magic (Under Construction)"
     validations:
       required: true
+  - type: textarea
+    id: link_your_donations
+    attributes:
+      label: "Please provide links to your Patreon, Kofi, and Paypal if you have any of these."
+      description: "I have no interest in paying you directly, but I will gladly add you to the Current Contributors list along with your donation links for others to support you with instead."
+      placeholder: "..."
+    validations:
+      required: true
   - type: input
     id: what_mod_s_are_you_forking_making_an_alternative_to_and_what_issue_s_do_they_fix
     attributes:
@@ -41,15 +49,6 @@ body:
     attributes:
       label: "Have you done any modding before? If so, please link a project you've made/contributed to in the past."
       description: "Post links and info here."
-      placeholder: "..."
-    validations:
-      required: true
-
-  - type: textarea
-    id: link_your_donations
-    attributes:
-      label: "Please provide links to your Patreon, Kofi, and Paypal if you have any of these."
-      description: "I have no interest in paying you directly, but I will gladly add you to the Current Contributors list along with your donation links for others to support you with instead."
       placeholder: "..."
     validations:
       required: true
