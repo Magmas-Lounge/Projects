@@ -17,7 +17,7 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: what_modpack_s_are_you_willing_to_help_with
+    id: what_modpacks_are_you_willing_to_help_with
     attributes:
       label: "What modpack(s) are you willing to help with?"
       description: "Select one or more below."
@@ -28,7 +28,7 @@ body:
         - label: "Realism & Magic (Under Construction)"
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: link_your_donations
     attributes:
       label: "Please provide links to your Patreon, Kofi, and Paypal if you have any of these."
@@ -37,15 +37,15 @@ body:
     validations:
       required: true
   - type: input
-    id: what_mod_s_are_you_forking_making_an_alternative_to_and_what_issue_s_do_they_fix
+    id: what_mods_are_you_forking
     attributes:
       label: "What issue(s) does your mod fix within the selected modpack(s)?"
       description: "Please describe."
       placeholder: "..."
     validations:
       required: true
-  - type: textarea
-    id: have_you_done_any_modding_before_if_so_please_link_a_project_you_ve_made_contributed_to_in_the_past
+  - type: input
+    id: have_you_done_any_modding_before
     attributes:
       label: "Have you done any modding before? If so, please link a project you've made/contributed to in the past."
       description: "Post links and info here."
