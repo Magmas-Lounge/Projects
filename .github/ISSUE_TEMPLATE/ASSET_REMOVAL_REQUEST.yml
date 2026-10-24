@@ -1,0 +1,32 @@
+name: "Asset Removal Request"
+description: "Only open if you're the creator of a mod/resourcepack, and want content I'm using removed."
+labels: ["Asset Removal Request"]
+assignees: ["MagmaSlime123"]
+body:
+  - type: input
+    id: what_s_your_username_on_modrinth_and_or_curseforge
+    attributes:
+      label: "What's your username on Modrinth and/or CurseForge?"
+      placeholder: "..."
+    validations:
+      required: true
+  - type: input
+    id: please_provide_a_link_to_a_mod_you_ve_made
+    attributes:
+      label: "Please provide a link to a mod you've made."
+      placeholder: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: what_assets_do_you_want_removed
+    attributes:
+      label: "What assets do you want removed?"
+      placeholder: "..."
+    validations:
+      required: true
+  - type: textarea
+    id: anything_else
+    attributes:
+      label: "Anything else?"
+    validations:
+      required: false
