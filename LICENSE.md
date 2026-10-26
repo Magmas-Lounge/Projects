@@ -3,3 +3,4 @@
 -  For any questions and known issues, see https://github.com/Magmas-Lounge/Projects/issues/1 and https://github.com/Magmas-Lounge/Projects/issues/2.
 - **Do oot** modify my projects unless you're contributing, absolutely no support will be provided to those who do so.
 - For contributions, submit a Contribution Submission on the Issues tab.
+- If you're a mod/resourcepack dev and want things I'm using removed, submit an Asset Removal Request.
